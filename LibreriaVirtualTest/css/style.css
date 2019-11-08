@@ -1,0 +1,42 @@
+
+form { padding: 40px 450px;}
+
+#formulario { 
+padding: 0px; }
+
+/*Cajas de registro*/
+#login-box, #libro-box, #camcon-box, #caja-box, #blibros-box {
+	padding: 20px;
+	color: white;
+	background-color: #367EFF;
+}
+
+form #login-box button, #libro-box button, #caja-box button, #camcon-box button, #blibros-box button {
+	color: #367EFF;
+	background-color: white;
+	font-size: 20px;
+	
+}
+
+form #login-box h3, #libro-box h3, #camcon-box h3, #blibros-box h3 {
+	align-content: center;
+	text-align: center;
+	font-size: 26px;
+	object-position: center;
+}
+
+
+#detalle-box { text-align: center; padding: 10px 190px;}
+#error {text-align: center; padding: 10px;}
+
+#tabla-box { padding: 40px 110px; }
+#tabla-box th, #tabla-box h3 {	
+	background-color: #367EFF; 
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+#caja-box{
+	background-color: #367EFF; 
+}

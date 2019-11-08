@@ -1,0 +1,6 @@
+input:valid, textarea:valid {
+  border-color:green;
+}
+input:invalid, textarea:invalid {
+  border-color:#dddedd;
+}
